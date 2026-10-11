@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Ahmed 👋<br><br>🎓 Computer Science Student | Software Development<br><br>I'm a Computer Science student passionate about building practical software solutions, exploring new technologies, and automating tasks with AI.<br><br>### 💻 Technologies & Tools<br>- **Frontend:** HTML, CSS, JavaScript, Vue.js, React<br>- **Backend:** PHP, Laravel, REST APIs<br>- **Databases:** SQL, PostgreSQL<br>- **Programming:** Python, C<br>- **Automation & AI:** n8n, AI-powered workflows, LLM integration<br>- **Tools:** Git, GitHub, Docker<br><br>### 🚀 What I'm Working On<br>- Building **GitMatch**, a personalized GitHub repository recommendation system.<br>- Developing **Tailora**, an AI-powered CV tailoring automation project.<br>- Improving my skills in React, cloud computing, and software engineering.<br><br>### 🎯 Current Goals<br>- Build useful, real-world applications.<br>- Learn modern web development practices.<br>- Explore AI automation and cloud technologies.<br>- Contribute to open-source projects.<br><br>📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ahmed-jeday-555a113bb/)<br>
 
-<!--
-**Ahmed-Jeday/Ahmed-Jeday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ahmed-Jeday&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ahmed-Jeday&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmed-Jeday&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=Ahmed-Jeday&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
